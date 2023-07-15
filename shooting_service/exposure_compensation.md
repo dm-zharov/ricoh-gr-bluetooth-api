@@ -18,7 +18,7 @@ Acquires and sets the EV compensation value of the camera.
 
 ### Value Fields
 
-0 if the exposure program ([Exposure Program](exposure_program.md)) is set to Manual Program.
+0 if the exposure program is set to Manual Program.
 
 | Value | Description |
 |:--|:--|

@@ -14,7 +14,7 @@ sint8
 
 ### Overview
 
-Sets or acquires the action mode of the camera.
+Acquires and sets the action mode of the camera.
 
 ### Value Fields
 

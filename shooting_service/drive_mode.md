@@ -28,89 +28,89 @@ Acquires and sets the drive mode of the camera.
 
 | Value | Description |
 |:--|:--|
-| 0 | 1コマ撮影 |
-| 1 | 1コマ撮影 (セルフ10秒) |
-| 2 | 1コマ撮影 (セルフ2秒) |
-| 3 | 連続撮影 |
-| 4 | ブラケット撮影 |
-| 5 | ブラケット撮影 (セルフ10秒) |
-| 6 | ブラケット撮影 (セルフ2秒) |
-| 7 | 多重露出 |
-| 8 | 多重露出 (セルフ10秒) |
-| 9 | 多重露出 (セルフ2秒) |
-| 10 | インターバル撮影 |
-| 11 | インターバル撮影 (セルフ10秒) |
-| 12 | インターバル撮影 (セルフ2秒) |
-| 13 | インターバル合成 |
-| 14 | インターバル合成 (セルフ10秒) |
-| 15 | インターバル合成 (セルフ2秒) |
-| 16 | 1コマ撮影 (リモコン即時) |
-| 17 | 1コマ撮影 (リモコン3秒) |
-| 18 | 連続撮影H |
-| 19 | 連続撮影H (セルフ12秒) |
-| 20 | 連続撮影H (セルフ2秒) |
-| 21 | 連続撮影H (リモコン即時) |
-| 22 | 連続撮影H (リモコン3秒) |
-| 23 | 連続撮影M |
-| 24 | 連続撮影M (セルフ12秒) |
-| 25 | 連続撮影M (セルフ2秒) |
-| 26 | 連続撮影M (リモコン即時) |
-| 27 | 連続撮影M (リモコン3秒) |
-| 28 | 連続撮影L |
-| 29 | 連続撮影L (セルフ12秒) |
-| 30 | 連続撮影L (セルフ2秒) |
-| 31 | 連続撮影L (リモコン即時) |
-| 32 | 連続撮影L (リモコン3秒) |
-| 33 | ブラケット撮影 (リモコン即時) |
-| 34 | ブラケット撮影 (リモコン3秒) |
-| 35 | 多重露出 (リモコン即時) |
-| 36 | 多重露出 (リモコン3秒) |
-| 37 | インターバル撮影 (リモコン即時) |
-| 38 | インターバル撮影 (リモコン3秒) |
-| 39 | インターバル合成 (リモコン即時) |
-| 40 | インターバル合成 (リモコン3秒) |
-| 41 | インターバル動画 |
-| 42 | インターバル動画 (セルフ12秒) |
-| 43 | インターバル動画 (セルフ2秒) |
-| 44 | インターバル動画 (リモコン即時) |
-| 45 | インターバル動画 (リモコン3秒) |
-| 46 | モーションブラケット |
-| 47 | モーションブラケット(セルフ12秒) |
-| 48 | モーションブラケット(セルフ2秒) |
-| 49 | モーションブラケット(リモコン即時) |
-| 50 | モーションブラケット(リモコン3秒) |
-| 51 | 被写界深度ブラケット |
-| 52 | 被写界深度ブラケット(セルフ12秒) |
-| 53 | 被写界深度ブラケット(セルフ2秒) |
-| 54 | 被写界深度ブラケット(リモコン即時) |
-| 55 | 被写界深度ブラケット(リモコン3秒) |
-| 56 | ミラーアップ |
-| 57 | ミラーアップ(セルフ12秒) |
-| 58 | ミラーアップ(セルフ2秒) |
-| 59 | ミラーアップ(リモコン即時) |
-| 60 | ミラーアップ(リモコン3秒) |
-| 61 | スターストリーム |
-| 62 | スターストリーム(セルフ12秒) |
-| 63 | スターストリーム(セルフ2秒) |
-| 64 | スターストリーム(リモコン即時) |
-| 65 | スターストリーム(リモコン3秒) |
+| 0 | Single Frame Shooting |
+| 1 | Single Frame Shooting (Self 10 seconds) |
+| 2 | Single Frame Shooting (Self 2 seconds) |
+| 3 | Continuous Shooting |
+| 4 | Bracket Shooting |
+| 5 | Bracket Shooting (Self 10 seconds) |
+| 6 | Bracket Shooting (Self 2 seconds) |
+| 7 | Multiple Exposure |
+| 8 | Multiple Exposure (Self 10 seconds) |
+| 9 | Multiple Exposure (Self 2 seconds) |
+| 10 | Interval Shooting |
+| 11 | Interval Shooting (Self 10 seconds) |
+| 12 | Interval Shooting (Self 2 seconds) |
+| 13 | Interval Composite |
+| 14 | Interval Composite (Self 10 seconds) |
+| 15 | Interval Composite (Self 2 seconds) |
+| 16 | Single Frame Shooting (Remote Immediate) |
+| 17 | Single Frame Shooting (Remote 3 seconds) |
+| 18 | Continuous Shooting H |
+| 19 | Continuous Shooting H (Self 12 seconds) |
+| 20 | Continuous Shooting H (Self 2 seconds) |
+| 21 | Continuous Shooting H (Remote Immediate) |
+| 22 | Continuous Shooting H (Remote 3 seconds) |
+| 23 | Continuous Shooting M |
+| 24 | Continuous Shooting M (Self 12 seconds) |
+| 25 | Continuous Shooting M (Self 2 seconds) |
+| 26 | Continuous Shooting M (Remote Immediate) |
+| 27 | Continuous Shooting M (Remote 3 seconds) |
+| 28 | Continuous Shooting L |
+| 29 | Continuous Shooting L (Self 12 seconds) |
+| 30 | Continuous Shooting L (Self 2 seconds) |
+| 31 | Continuous Shooting L (Remote Immediate) |
+| 32 | Continuous Shooting L (Remote 3 seconds) |
+| 33 | Bracket Shooting (Remote Immediate) |
+| 34 | Bracket Shooting (Remote 3 seconds) |
+| 35 | Multiple Exposure (Remote Immediate) |
+| 36 | Multiple Exposure (Remote 3 seconds) |
+| 37 | Interval Shooting (Remote Immediate) |
+| 38 | Interval Shooting (Remote 3 seconds) |
+| 39 | Interval Composite (Remote Immediate) |
+| 40 | Interval Composite (Remote 3 seconds) |
+| 41 | Interval Movie |
+| 42 | Interval Movie (Self 12 seconds) |
+| 43 | Interval Movie (Self 2 seconds) |
+| 44 | Interval Movie (Remote Immediate) |
+| 45 | Interval Movie (Remote 3 seconds) |
+| 46 | Motion Bracket |
+| 47 | Motion Bracket (Self 12 seconds) |
+| 48 | Motion Bracket (Self 2 seconds) |
+| 49 | Motion Bracket (Remote Immediate) |
+| 50 | Motion Bracket (Remote 3 seconds) |
+| 51 | Focus Bracketing |
+| 52 | Focus Bracketing (Self 12 seconds) |
+| 53 | Focus Bracketing (Self 2 seconds) |
+| 54 | Focus Bracketing (Remote Immediate) |
+| 55 | Focus Bracketing (Remote 3 seconds) |
+| 56 | Mirror Lockup |
+| 57 | Mirror Lockup (Self 12 seconds) |
+| 58 | Mirror Lockup (Self 2 seconds) |
+| 59 | Mirror Lockup (Remote Immediate) |
+| 60 | Mirror Lockup (Remote 3 seconds) |
+| 61 | Star Stream |
+| 62 | Star Stream (Self 12 seconds) |
+| 63 | Star Stream (Self 2 seconds) |
+| 64 | Star Stream (Remote Immediate) |
+| 65 | Star Stream (Remote 3 seconds) |
 
 #### User Mode
 
 | Value | Description |
 |:--|:--|
-| 0 | ユーザーモードではない |
-| 1 | ユーザーモード |
-| 2 | ユーザーモード2 |
-| 3 | ユーザーモード3 |
-| 4 | ユーザーモード4 |
-| 5 | ユーザーモード5 |
+| 0 | Not in user mode |
+| 1 | User mode |
+| 2 | User mode 2 |
+| 3 | User mode 3 |
+| 4 | User mode 4 |
+| 5 | User mode 5 |
 
 #### Shooting Mode Option
 
 | Value | Description |
 |:--|:--|
-| 0 | オプションなし |
+| 0 | No options |
 | 1 | Hyper |
 | 2 | Shift |
 

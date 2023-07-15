@@ -14,11 +14,11 @@ list
 
 ### Overview
 
-Acquires the ISO sensivity list.
+Acquires the list of ISO sensivities.
 
 ### Value Fields
 
-| Value | Type |
+| Name | Type |
 |:--|:--|
 | Elements | sint8 |
 | ISO Sensitivity | sint32 |

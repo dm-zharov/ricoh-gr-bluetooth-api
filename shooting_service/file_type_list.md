@@ -14,7 +14,7 @@ list
 
 ### Overview
 
-Acquires the file type list.
+Acquires the list of file types.
 
 ### Value Fields
 

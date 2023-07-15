@@ -10,16 +10,16 @@
 
 ### Overview
 
-Number of Notification.
+Acquires the high frequency shooting service notification.
 
 ### Value Fields
 
 | Name | Type | Description |
 |:--|:--|:--|
-| Number of Notification | sint8 | None |
+| Number of Notification | sint8 | |
 | Include Changed Value | sint8 | 0--1 |
-| UUID | sint128 | None |
-| Changed Value | variable | None |
+| UUID | sint128 | |
+| Changed Value | variable | |
 
 ### Properties
 

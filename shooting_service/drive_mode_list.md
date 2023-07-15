@@ -14,11 +14,11 @@ list
 
 ### Overview
 
-Acquires the drive mode list.
+Acquires the list of drive modes.
 
 ### Value Fields
 
-| Value | Type |
+| Name | Type |
 |:--|:--|
 | Elements | sint8 |
 | Drive Mode | sint8 |

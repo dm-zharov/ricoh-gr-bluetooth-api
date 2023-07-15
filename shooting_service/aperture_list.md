@@ -14,11 +14,11 @@ list
 
 ### Overview
 
-Acquires the aperture list.
+Acquires the list of apertures.
 
 ### Value Fields
 
-| Value | Type |
+| Name | Type |
 |:--|:--|
 | Elements | sint8 |
 | Aperture | sint8 |

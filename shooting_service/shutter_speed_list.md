@@ -14,11 +14,11 @@ list
 
 ### Overview
 
-Acquires the shutter speed list.
+Acquires the list of shutter speeds.
 
 ### Value Fields
 
-| Value | Type |
+| Name | Type |
 |:--|:--|
 | Elements | sint8 |
 | Shutter Speed | uint8 |

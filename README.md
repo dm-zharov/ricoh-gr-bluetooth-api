@@ -41,8 +41,8 @@
 [Operation Request](./shooting_service/operation_request.md)  
 [Focus Mode](./shooting_service/focus_mode.md)  
 [Auto Focus Status](./shooting_service/auto_focus_status.md)  
-[Capture Status](./shooting_service)  
-[Shot Count](./shooting_service)  
+[Capture Status](./shooting_service/capture_status.md)  
+[Shot Count](./shooting_service/shot_count.md)  
 [Self Timer](./shooting_service)  
 [Shooting Mode List](./shooting_service)  
 [Focus Setting List](./shooting_service)  
@@ -65,14 +65,14 @@
 #### WLAN Control Command
 
 [Network Type](./wlan_control_command/network_type.md)  
-[SSID](./wlan_control_command)  
-[Passphrase](./wlan_control_command)  
-[Channel](./wlan_control_command)  
+[SSID](./wlan_control_command/ssid.md)  
+[Passphrase](./wlan_control_command/passphrase.md)  
+[Channel](./wlan_control_command/channel.md)  
 
 #### Bluetooth Control Command
 
-[Bluetooth Control Command](./bluetooth_control_command)  
-[Paired Device Name](./bluetooth_control_command)  
+[BLE Enable Condition](./bluetooth_control_command/ble_enable_condition.md)  
+[Paired Device Name](./bluetooth_control_command/paired_device_name.md)  
 
 ### Source
 

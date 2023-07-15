@@ -1,4 +1,4 @@
-# Shooting Service Notification
+# Shot Count
 
 ### Service
 
@@ -6,20 +6,18 @@
 
 ### Characteristic
 
-671466A5-5535-412E-AC4F-8B2F06AF2237
+12D262BA-D8BF-44B0-8E85-C414A40230A9
 
 ### Overview
 
-Acquires the number of notification.
+Acquires the current and total shot count.
 
 ### Value Fields
 
 | Name | Type | Description |
 |:--|:--|:--|
-| Number of Notification | sint8 | |
-| Include Changed Value | sint8 | 0--1 |
-| UUID | sint128 | |
-| Changed Value | variable | |
+| current | sint8 | The current shot count. |
+| total | sint8 | The total shot count. |
 
 ### Properties
 

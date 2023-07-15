@@ -1,8 +1,25 @@
-# Unofficial RICOH GR II/III/IIIx Bluetooth API
+# RICOH GR Bluetooth API
+
+## Overview 
+
+An **unofficial** list of characteristics and their effects. The supported models are refered to as below. There are certain functional differences between each model.
+
+- RICOH GR II / GR III / GR IIIx
+- RICOH G900 SE / WG-M2
+- PENTAX K1 / K-3 Mark III / K-3 Mark III Monochrome / K70 / KF / KP
+
+Source:
+- Reverse Engineering  
+- [RICOH THETA API Specifications](https://github.com/ricohapi/theta-api-specs): API for 360° cameras
+
+**Use at your own risk.**
+
+## Content
 
 ### Developer Guide
 
-[Characteristics list](./characteristics_list.md)  
+- [Characteristics list](./characteristics_list.md)  
+- [Bluetooth 4.2 Core Specifications](https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=286439&_ga=2.97979420.260081372.1496207139-937189733.1496207139)
 
 ### API Reference
 
@@ -17,17 +34,17 @@
 
 #### Camera
 
-[Camera Service Notification](./shooting_service/camera_service_notification.md)  
-[Camera Power](./shooting_service/camera_power.md)  
-[Battery Level](./shooting_service)  
-[Date Time](./shooting_service)  
-[Operation Mode List](./shooting_service)  
-[Operation Mode](./shooting_service)  
-[GEO Tag](./shooting_service)  
-[Storage Information](./shooting_service)  
-[File Transfer List](./shooting_service)  
-[Power Off During File Transfer](./shooting_service)  
-[Grad ND](./shooting_service)  
+[Camera Service Notification](./camera/camera_service_notification.md)  
+[Camera Power](./camera/camera_power.md)  
+[Battery Level](./camera/battery_level.md)  
+[Date Time](./camera/date_time.md)  
+[Operation Mode](./camera/operation_mode.md)  
+[Operation Mode List](./camera/operation_mode_list.md)  
+[GEO Tag](./camera/geo_tag.md)  
+[Storage Information](./camera/storage_information.md)  
+[File Transfer List](./camera/file_transfer_list.md)  
+[Power Off During File Transfer](./camera/power_off_during_file_transfer.md)  
+[Grad ND](./camera/grad_nd.md)  
 
 #### Shooting
 
@@ -76,8 +93,3 @@
 
 [BLE Enable Condition](./bluetooth_control_command/ble_enable_condition.md)  
 [Paired Device Name](./bluetooth_control_command/paired_device_name.md)  
-
-### Source
-
-- Reverse Engineering  
-- [RICOH THETA API Specifications](https://github.com/ricohapi/theta-api-specs)  

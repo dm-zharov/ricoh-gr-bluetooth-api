@@ -1,4 +1,4 @@
-# Drive Mode
+# Operation Request
 
 ### Service
 
@@ -20,19 +20,10 @@ Sets the operation request.
 
 | Name | Type |
 |:--|:--|
-| Drive Mode | sint8 |
-| User Mode | sint8 |
-| Shooting Mode Option | sint8 |
+| OperationCode | sint8 |
+| Parameter | sint8 |
 
-#### Operation Code
-
-| Value | Description |
-|:--|:--|
-| 0 | Single Frame Shooting |
-| 1 | Single Frame Shooting (Self 10 seconds) |
-| 2 | Single Frame Shooting (Self 2 seconds) |
-
-#### Parameter
+#### OperationCode
 
 | Value | Description |
 |:--|:--|
@@ -40,7 +31,7 @@ Sets the operation request.
 | 1 | Start Shooting/Recording |
 | 2 | Stop Shooting/Recording |
 
-#### Shooting Mode Option
+#### Parameter
 
 | Value | Description |
 |:--|:--|

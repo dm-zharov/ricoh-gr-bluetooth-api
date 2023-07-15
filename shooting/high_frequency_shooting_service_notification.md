@@ -8,6 +8,10 @@
 
 2AC97991-A78B-4CD4-9AE8-6E030E1D9EDB
 
+### Type
+
+variable
+
 ### Overview
 
 Acquires the high frequency shooting service notification.

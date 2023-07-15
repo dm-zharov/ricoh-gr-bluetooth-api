@@ -1,4 +1,4 @@
-# File Type List
+# Exposure Compensation List
 
 ### Service
 
@@ -6,22 +6,22 @@
 
 ### Characteristic
 
-F3BFB222-C62B-4AAA-BB61-EF6486626CC8
+01879798-28EE-4D97-92C9-FD249C88BBCC
 
-### Format
+### Type
 
 list
 
 ### Overview
 
-Acquires the list of file types.
+Acquires the exposure compensation list.
 
 ### Value Fields
 
-| Value | Type |
+| Name | Type |
 |:--|:--|
 | Elements | sint8 |
-| File Type | sint8 |
+| Exposure Compensation | sint8 |
 
 ### Properties
 
@@ -29,4 +29,4 @@ Acquires the list of file types.
 |:--|:--|
 | Read | Mandatory |
 | Write | Excluded |
-| Notify | Excluded |
+| Notify | Mandatory |

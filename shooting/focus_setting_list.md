@@ -1,4 +1,4 @@
-# Shooting Service Notification
+# Focus Setting List
 
 ### Service
 
@@ -6,20 +6,22 @@
 
 ### Characteristic
 
-671466A5-5535-412E-AC4F-8B2F06AF2237
+31B28DAB-BD3C-4C27-AA08-F379BF737C1E
+
+### Type
+
+list
 
 ### Overview
 
-Acquires the number of notification.
+Acquires the list of focus settings.
 
 ### Value Fields
 
 | Name | Type | Description |
 |:--|:--|:--|
-| Number of Notification | sint8 | |
-| Include Changed Value | sint8 | 0--1 |
-| UUID | sint128 | |
-| Changed Value | variable | |
+| Elements | sint8 | The elements in the list. |
+| Focus Setting | sint8 | The focus setting corresponding to each element in the list. |
 
 ### Properties
 

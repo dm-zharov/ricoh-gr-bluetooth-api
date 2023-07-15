@@ -1,4 +1,4 @@
-# ISO Sensitivity List
+# White Balance List
 
 ### Service
 
@@ -6,22 +6,22 @@
 
 ### Characteristic
 
-9C83DF56-FD93-4639-8CA7-857BB7B3CA3D
+FB673486-2A76-41B8-88F7-F88552FE5745
 
-### Format
+### Type
 
 list
 
 ### Overview
 
-Acquires the list of ISO sensivities.
+Acquires the list of white balance settings.
 
 ### Value Fields
 
-| Name | Type |
+| Value | Type |
 |:--|:--|
 | Elements | sint8 |
-| ISO Sensitivity | sint32 |
+| White Balance | sint8 |
 
 ### Properties
 

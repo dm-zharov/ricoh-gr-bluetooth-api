@@ -8,7 +8,7 @@
 
 B355330D-4ADC-4434-A222-7B91404B4788
 
-### Format
+### Type
 
 list
 

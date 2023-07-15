@@ -1,4 +1,4 @@
-# White Balance List
+# File Type List
 
 ### Service
 
@@ -6,22 +6,22 @@
 
 ### Characteristic
 
-FB673486-2A76-41B8-88F7-F88552FE5745
+F3BFB222-C62B-4AAA-BB61-EF6486626CC8
 
-### Format
+### Type
 
 list
 
 ### Overview
 
-Acquires the list of white balance settings.
+Acquires the list of file types.
 
 ### Value Fields
 
 | Value | Type |
 |:--|:--|
 | Elements | sint8 |
-| White Balance | sint8 |
+| File Type | sint8 |
 
 ### Properties
 
@@ -29,4 +29,4 @@ Acquires the list of white balance settings.
 |:--|:--|
 | Read | Mandatory |
 | Write | Excluded |
-| Notify | Mandatory |
+| Notify | Excluded |

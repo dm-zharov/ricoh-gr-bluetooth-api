@@ -1,4 +1,4 @@
-# Drive Mode List
+# ISO Sensitivity List
 
 ### Service
 
@@ -6,22 +6,22 @@
 
 ### Characteristic
 
-F4B6C78C-7873-43F0-9748-F4406185224D
+9C83DF56-FD93-4639-8CA7-857BB7B3CA3D
 
-### Format
+### Type
 
 list
 
 ### Overview
 
-Acquires the list of drive modes.
+Acquires the list of ISO sensivities.
 
 ### Value Fields
 
 | Name | Type |
 |:--|:--|
 | Elements | sint8 |
-| Drive Mode | sint8 |
+| ISO Sensitivity | sint32 |
 
 ### Properties
 

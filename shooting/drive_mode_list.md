@@ -1,4 +1,4 @@
-# Exposure Compensation List
+# Drive Mode List
 
 ### Service
 
@@ -6,22 +6,22 @@
 
 ### Characteristic
 
-01879798-28EE-4D97-92C9-FD249C88BBCC
+F4B6C78C-7873-43F0-9748-F4406185224D
 
-### Format
+### Type
 
 list
 
 ### Overview
 
-Acquires the exposure compensation list.
+Acquires the list of drive modes.
 
 ### Value Fields
 
 | Name | Type |
 |:--|:--|
 | Elements | sint8 |
-| Exposure Compensation | sint8 |
+| Drive Mode | sint8 |
 
 ### Properties
 

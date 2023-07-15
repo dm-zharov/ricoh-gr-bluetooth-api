@@ -2,7 +2,7 @@
 
 ## Overview 
 
-An **unofficial** list of characteristics and their effects. The supported models are refered to as below. There are certain functional differences between each model.
+An **unofficial** list of characteristics and their effects. The supported models are refered to as below. There are certain functional and availability differences between each model.
 
 - RICOH GR II / GR III / GR IIIx
 - RICOH G900 SE / WG-M2
@@ -52,7 +52,7 @@ Source:
 [High Frequency Shooting Service Notification](./shooting/high_frequency_shooting_service_notification.md)  
 [Shutter Speed](./shooting/shutter_speed.md)  
 [Shutter Speed List](./shooting/shutter_speed_list.md)  
-[Aperture](./shooting_service)  
+[Aperture](./shooting/aperture.md)  
 [Aperture List](./shooting/aperture_list.md)  
 [ISO Sensitivity](./shooting/iso_sensitivity.md)  
 [ISO Sensitivity List](./shooting/iso_sensivity_list.md)  

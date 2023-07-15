@@ -10,7 +10,7 @@ FA46BBDD-8A8F-4796-8CF3-AA58949B130A
 
 ### Overview
 
-Acquires and sets the date and time setting of the camera.
+Acquires and sets the date and time settings of the camera.
 
 ### Value Fields
 

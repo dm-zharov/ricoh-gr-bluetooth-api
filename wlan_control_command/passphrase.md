@@ -14,7 +14,7 @@ utf8s
 
 ### Overview
 
-Acquires or sets the network passphrase.
+Acquires and sets the network passphrase.
 
 ### Properties
 

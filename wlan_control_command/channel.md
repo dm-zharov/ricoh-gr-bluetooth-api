@@ -14,7 +14,7 @@ sint8
 
 ### Overview
 
-Acquires or sets the network channel.
+Acquires and sets the network channel.
 
 ### Value Fields
 

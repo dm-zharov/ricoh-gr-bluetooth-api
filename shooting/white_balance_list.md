@@ -14,7 +14,7 @@ list
 
 ### Overview
 
-Acquires the list of white balance settings.
+Acquires the list of the white balance settings.
 
 ### Value Fields
 

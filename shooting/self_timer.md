@@ -16,8 +16,8 @@ Sets the self-timer functionality of the camera.
 
 | Name | Type | Description |
 |:--|:--|:--|
-| Countdown Cancel | sint8 | Option to cancel the countdown. Values: 0 - Other, 1 - Cancel |
-| Remocon | sint8 | Remote control settings. Values: 0 - Off, 1 - On |
+| Countdown Cancel | sint8 | 0 - Other<br>1 - Cancel |
+| Remocon | sint8 | Remote control setting:<br>0 - Off<br>1 - On |
 
 ### Properties
 

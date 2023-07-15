@@ -10,14 +10,14 @@
 
 ### Overview
 
-Represents the battery level of the camera and the source of power being used.
+Acquires the battery level of the camera and the source of power being used.
 
 ### Value Fields
 
 | Name | Type | Description |
 |:--|:--|:--|
-| Level | sint8 | Current battery level. |
-| Used | sint8 | Source of power being used. Values:<br>0 - Battery<br>1 - AcAdapter |
+| Level | sint8 | Current battery level |
+| Used | sint8 | Source of power being used:<br>0 - Battery<br>1 - AcAdapter |
 
 ### Properties
 

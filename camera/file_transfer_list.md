@@ -24,4 +24,5 @@ Acquires the information about the file transfer list.
 | Property | Requirement |
 |:--|:--|
 | Read | Mandatory |
+| Write | Excluded |
 | Notify | Mandatory |

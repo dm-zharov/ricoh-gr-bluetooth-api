@@ -10,7 +10,7 @@
 
 ### Overview
 
-Acquires and sets the GPS information of the camera.
+Acquires and sets the GPS information to the camera.
 
 ### Value Fields
 

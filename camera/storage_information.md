@@ -10,7 +10,7 @@ A0C10148-8865-4470-9631-8F36D79A41A5
 
 ### Overview
 
-Acquires the information of the camera storage.
+Acquires the information about the camera storage.
 
 ### Value Fields
 

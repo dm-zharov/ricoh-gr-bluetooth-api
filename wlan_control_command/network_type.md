@@ -14,7 +14,7 @@ sint8
 
 ### Overview
 
-Acquires or sets the network type.
+Acquires and sets the network type.
 
 ### Value Fields
 

@@ -16,8 +16,8 @@ Acquires the current and total shot count.
 
 | Name | Type | Description |
 |:--|:--|:--|
-| current | sint8 | The current shot count. |
-| total | sint8 | The total shot count. |
+| current | sint8 | The current shot count |
+| total | sint8 | The total shot count |
 
 ### Properties
 

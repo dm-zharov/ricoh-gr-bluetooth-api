@@ -14,7 +14,7 @@ utf8s
 
 ### Overview
 
-Acquires the Bluetooth MAC Address of the camera as a character string.
+Acquires the Bluetooth MAC address of the camera as a character string.
 
 ### Properties
 

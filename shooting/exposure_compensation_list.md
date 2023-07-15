@@ -14,7 +14,7 @@ list
 
 ### Overview
 
-Acquires the exposure compensation list.
+Acquires the list of exposure compensations.
 
 ### Value Fields
 

@@ -14,7 +14,7 @@ utf8s
 
 ### Overview
 
-Acquires or sets the network SSID.
+Acquires and sets the network SSID.
 
 ### Properties
 

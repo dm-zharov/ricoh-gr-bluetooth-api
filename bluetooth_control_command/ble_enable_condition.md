@@ -21,8 +21,8 @@ Acquires and sets the BLE enable condition.
 | Value | Description |
 |:--|:--|
 | 0 | Disable |
-| 1 | Enable anytime |
-| 2 | Enable power on |
+| 1 | On anytime |
+| 2 | On when power is on |
 
 ### Properties
 

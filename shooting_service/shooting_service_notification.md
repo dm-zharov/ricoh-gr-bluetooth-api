@@ -10,7 +10,7 @@
 
 ### Overview
 
-Number of Notification.
+Acquires the number of notification.
 
 ### Value Fields
 

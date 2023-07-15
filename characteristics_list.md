@@ -65,7 +65,7 @@ Supported characteristics are listed below.
       <td><img src="assets/img/supported.png" alt="Mandatory" title="Mandatory" class="support-mark"></td>
       <td><img src="assets/img/not-supported.png" alt="Excluded" title="Excluded" class="support-mark"></td>
     </tr><tr>
-      <td><a href="shooting_control_command/white_balance.md">White Balance</a></td>
+      <td><a href="shooting_service/white_balance.md">White Balance</a></td>
       <td><img src="assets/img/supported.png" alt="Mandatory" title="Mandatory" class="support-mark"></td>
       <td><img src="assets/img/supported.png" alt="Mandatory" title="Mandatory" class="support-mark"></td>
       <td><img src="assets/img/not-supported.png" alt="Excluded" title="Excluded" class="support-mark"></td>
@@ -123,10 +123,3 @@ Supported characteristics are listed below.
 
 ![Mandatory](assets/img/supported.png "Mandatory"): Mandatory    
 ![Excluded](assets/img/not-supported.png "Excluded"): Excluded
-![some model Mandatory](assets/img/partially-supported.png "some model Mandatory"): some model Mandatory
-
-\*1 RICOH THETA V firmware v2.30.1 or later  
-\*2 RICOH THETA V firmware v3.00.1 or later  
-\*3 RICOH THETA V is not supported  
-\*4 RICOH THETA Z1 firmware v2.10.1 or later  
-\*5 RICOH THETA Z1 firmware v2.20.3 or later  

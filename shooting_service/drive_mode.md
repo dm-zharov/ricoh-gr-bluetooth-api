@@ -18,11 +18,11 @@ Acquires and sets the drive mode of the camera.
 
 ### Value Fields
 
-| Name | Type | Description |
-|:--|:--|:--|
-| Drive Mode | sint8 | Acquires and sets the drive mode. |
-| User Mode | sint8 | Acquires and sets the user mode. |
-| Shooting Mode Option | sint8 | Acquires and sets the shooting mode option. |
+| Name | Type |
+|:--|:--|
+| Drive Mode | sint8 |
+| User Mode | sint8 |
+| Shooting Mode Option | sint8 |
 
 #### Drive Mode
 
@@ -113,7 +113,6 @@ Acquires and sets the drive mode of the camera.
 | 0 | No options |
 | 1 | Hyper |
 | 2 | Shift |
-
 
 ### Properties
 

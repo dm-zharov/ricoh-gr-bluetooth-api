@@ -28,7 +28,7 @@
 [Shooting Mode](./shooting_service/shooting_mode.md)  
 [Metering mode](./shooting_service/metering_mode.md)  
 [Capture Mode](./shooting_service/capture_mode.md)  
-[File Type](./shooting_service)  
+[File Type](./shooting_service/file_type.md)  
 [JPEG Size](./shooting_service)  
 [Movie Configuration](./shooting_service)  
 [Operation Request](./shooting_service)  

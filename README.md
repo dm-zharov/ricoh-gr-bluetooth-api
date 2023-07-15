@@ -76,7 +76,7 @@ Source:
 [Auto Focus Status](./shooting/auto_focus_status.md)  
 [Capture Status](./shooting/capture_status.md)  
 [Shot Count](./shooting/shot_count.md)  
-[Self Timer](./shooting_service/self_timer.md)
+[Self Timer](./shooting/self_timer.md)
 
 #### GPS Control Command
 

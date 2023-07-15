@@ -26,7 +26,7 @@ Acquires and sets the GPS information of the camera.
 | Minutes | sint8 | 0 -- 59 |
 | Seconds | sint8 | 0 -- 59 |
 | Time Zone | utf8s | + (-) hh:mm (Fixed to 6 digits) |
-| Datum | sint8 | 0（WGS84） |
+| Datum | sint8 | 0（WGS84）|
 
 ### Properties
 

@@ -18,8 +18,8 @@ Acquires the exposure compensation list.
 
 ### Value Fields
 
-| Value | Type | Description |
-|:--|:--|:--|
+| Value | Type |
+|:--|:--|
 | Elements | sint8 |
 | Exposure Compensation | sint8 |
 

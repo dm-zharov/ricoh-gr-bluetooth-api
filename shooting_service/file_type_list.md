@@ -1,4 +1,4 @@
-# Aperture List
+# File Type List
 
 ### Service
 
@@ -6,7 +6,7 @@
 
 ### Characteristic
 
-4866F4A9-2C83-457B-B393-B9535E1447E5
+F3BFB222-C62B-4AAA-BB61-EF6486626CC8
 
 ### Format
 
@@ -14,14 +14,14 @@ list
 
 ### Overview
 
-Acquires the aperture list.
+Acquires the file type list.
 
 ### Value Fields
 
 | Value | Type |
 |:--|:--|
 | Elements | sint8 |
-| Aperture | sint8 |
+| File Type | sint8 |
 
 ### Properties
 
@@ -29,4 +29,4 @@ Acquires the aperture list.
 |:--|:--|
 | Read | Mandatory |
 | Write | Excluded |
-| Notify | Mandatory |
+| Notify | Excluded |

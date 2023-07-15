@@ -1,4 +1,4 @@
-# Aperture List
+# Drive Mode List
 
 ### Service
 
@@ -6,7 +6,7 @@
 
 ### Characteristic
 
-4866F4A9-2C83-457B-B393-B9535E1447E5
+F4B6C78C-7873-43F0-9748-F4406185224D
 
 ### Format
 
@@ -14,14 +14,14 @@ list
 
 ### Overview
 
-Acquires the aperture list.
+Acquires the drive mode list.
 
 ### Value Fields
 
 | Value | Type |
 |:--|:--|
 | Elements | sint8 |
-| Aperture | sint8 |
+| Drive Mode | sint8 |
 
 ### Properties
 

@@ -1,4 +1,4 @@
-# Aperture List
+# White Balance List
 
 ### Service
 
@@ -6,7 +6,7 @@
 
 ### Characteristic
 
-4866F4A9-2C83-457B-B393-B9535E1447E5
+FB673486-2A76-41B8-88F7-F88552FE5745
 
 ### Format
 
@@ -14,14 +14,14 @@ list
 
 ### Overview
 
-Acquires the aperture list.
+Acquires the white balance list.
 
 ### Value Fields
 
 | Value | Type |
 |:--|:--|
 | Elements | sint8 |
-| Aperture | sint8 |
+| White Balance | sint8 |
 
 ### Properties
 

@@ -18,8 +18,8 @@ Acquires the ISO sensivity list.
 
 ### Value Fields
 
-| Value | Type | Description |
-|:--|:--|:--|
+| Value | Type |
+|:--|:--|
 | Elements | sint8 |
 | ISO Sensitivity | sint32 |
 

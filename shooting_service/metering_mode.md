@@ -16,10 +16,10 @@ ED58217E-1839-43B2-BCD7-DC48C36AC0DE
 
 | Value | Description |
 |:--|:--|
-| 0 | スポット |
-| 1 | 中央重点 |
-| 2 | 分割測光 |
-| 3 | ハイライト重点 |
+| 0 | Spot |
+| 1 | Center-weighted |
+| 2 | Evaluative |
+| 3 | Highlight-weighted |
 
 ### Properties
 

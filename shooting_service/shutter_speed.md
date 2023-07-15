@@ -94,4 +94,4 @@ The choise is listed below. There are certain range difference between each mode
 |:--|:--|
 | Read | Mandatory |
 | Write | Mandatory |
-| Notify | Excluded |
+| Notify | Mandatory |

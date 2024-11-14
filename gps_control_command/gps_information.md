@@ -18,15 +18,16 @@ Acquires and sets the GPS information to the camera.
 |:--|:--|:--|
 | Latitude | float64 | Latitude. |
 | Longitude | float64 | Longitude. |
-| Altitude | float64 | Altitude.<br>-9999 -- 9999 |
-| Year | sint16 | 1582 -- 9999 |
-| Month | sint8 | 1 -- 12 |
-| Day | sint8 | 1 -- 31 |
-| Hours | sint8 | 0 -- 23 |
-| Minutes | sint8 | 0 -- 59 |
-| Seconds | sint8 | 0 -- 59 |
-| Time Zone | utf8s | + (-) hh:mm (Fixed to 6 digits) |
-| Datum | sint8 | 0（WGS84）|
+| Altitude | float64 | Altitude.<br>`-9999` -- `9999` (TBC) |
+| Year | sint16 | `1582` -- `9999` (TBC), **LITTLE ENDIAN** |
+| Month | sint8 | `1` -- `12` |
+| Day | sint8 | `1` -- `31` |
+| Hours | sint8 | `0` -- `23` |
+| Minutes | sint8 | `0` -- `59` |
+| Seconds | sint8 | `0` -- `59` |
+| Datum | sint8 | Always `0`（WGS84）|
+
+Everything except the year field is in BIG_ENDIAN order. The timestamp is the time the location was acquired, not the current wall clock time. It is always expressed at UTC.
 
 ### Properties
 
